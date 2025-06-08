@@ -1,0 +1,361 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/pexels-shoeb-khan-2973323.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 552px;
+}
+
+.u-section-1 .u-text-1 {
+  text-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+  box-shadow: 0px 0px 0 0 rgba(0,0,0,0);
+  font-size: 4.375rem;
+  font-weight: 700;
+  margin: 317px auto 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 435px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 289px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    background-position: 37.26% 53.83%;
+    background-size: auto 115%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 333px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    width: auto;
+    margin-top: 262px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 250px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-top: 217px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 28.68% 51.52%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 157px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 407px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 386px;
+  height: 261px;
+  margin: 59px -21px 0 auto;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.27778rem;
+  font-family: Rosario;
+  margin: -260px 383px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 406px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 23px;
+    margin-right: -23px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: -310px;
+    margin-right: 386px;
+    margin-bottom: -27px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-top: -274px;
+    margin-right: 166px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-image-1 {
+    margin-top: 37px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1rem;
+    margin-top: -238px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 442px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 230px;
+    margin-top: 177px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -347px;
+    margin-bottom: 16px;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 416px;
+}
+
+.u-section-3 .u-list-1 {
+  width: 907px;
+  margin: 76px auto 60px;
+}
+
+.u-section-3 .u-repeater-1 {
+  grid-template-columns: calc(33.3333% - 12px) calc(33.3333% - 12px) calc(33.3333% - 12px);
+  min-height: 278px;
+  grid-gap: 18px 18px;
+}
+
+.u-section-3 .u-list-item-1 {
+  background-image: none;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 10px 0;
+}
+
+.u-section-3 .u-image-1 {
+  width: 164px;
+  height: 164px;
+  background-image: url("images/pexels-photo-7129013.webp");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.25rem;
+  font-style: normal;
+  margin: 32px 37px 0 27px;
+}
+
+.u-section-3 .u-icon-1 {
+  width: 36px;
+  height: 36px;
+  margin: -36px 19px 0 235px;
+  padding: 4px;
+}
+
+.u-section-3 .u-list-item-2 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 10px 0;
+}
+
+.u-section-3 .u-image-2 {
+  width: 164px;
+  height: 164px;
+  background-image: url("images/pexels-cottonbro-studio-6334763.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-2 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.25rem;
+  font-style: normal;
+  margin: 32px 37px 0 27px;
+}
+
+.u-section-3 .u-icon-2 {
+  width: 36px;
+  height: 36px;
+  margin: -36px 19px 0 235px;
+  padding: 4px;
+}
+
+.u-section-3 .u-list-item-3 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 10px 0;
+}
+
+.u-section-3 .u-image-3 {
+  width: 164px;
+  height: 164px;
+  background-image: url("images/pexels-rfstudio-3059748.jpg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-3 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.25rem;
+  font-style: normal;
+  margin: 32px 37px 0 27px;
+}
+
+.u-section-3 .u-icon-3 {
+  width: 36px;
+  height: 36px;
+  margin: -36px 19px 0 235px;
+  padding: 4px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 678px;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: calc(50% - 9px) calc(50% - 9px);
+    min-height: 638px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-bottom: 18px;
+  }
+
+  .u-section-3 .u-icon-1 {
+    margin-top: -20px;
+    margin-right: 37px;
+    margin-left: 371px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-bottom: 18px;
+  }
+
+  .u-section-3 .u-icon-2 {
+    margin-top: -20px;
+    margin-right: 37px;
+    margin-left: 371px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-bottom: 18px;
+  }
+
+  .u-section-3 .u-icon-3 {
+    margin-top: -20px;
+    margin-right: 37px;
+    margin-left: 371px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-list-1 {
+    width: 720px;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    min-height: 690px;
+    grid-template-columns: 100%;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-icon-1 {
+    margin-left: 295px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-icon-2 {
+    margin-left: 295px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-icon-3 {
+    margin-left: 295px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-3 .u-icon-1 {
+    margin-left: 221px;
+  }
+
+  .u-section-3 .u-icon-2 {
+    margin-left: 221px;
+  }
+
+  .u-section-3 .u-icon-3 {
+    margin-left: 221px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-list-1 {
+    width: 340px;
+  }
+
+  .u-section-3 .u-icon-1 {
+    margin-left: 139px;
+  }
+
+  .u-section-3 .u-icon-2 {
+    margin-left: 139px;
+  }
+
+  .u-section-3 .u-icon-3 {
+    margin-left: 139px;
+  }
+}
